@@ -10,7 +10,7 @@ public class PrinterApp {
 		System.out.println("This app is made by");
 		
 		//Step 4
-		String creator = "Ni.Xiong";
+		String creator = "Nicky";
 		
 		//Step 5
 		System.out.println("This app is made by " + creator);
